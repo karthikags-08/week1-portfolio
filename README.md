@@ -54,10 +54,5 @@ week1-portfolio
 - Used CSS Grid and Flexbox for layout
 - Added JavaScript for navigation and interactions
 
-
-
-
-
 ## Author
-
-Personal Portfolio Website Project
+Karthika
