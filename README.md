@@ -1,28 +1,30 @@
-# week1-portfolio
+# 🌐 Personal Portfolio Website
 
-# Personal Portfolio Website
+## 📌 Project Description
+This project is a **responsive personal portfolio website** designed to showcase skills, projects, and contact information.  
+It is built using **HTML5, CSS3, and JavaScript** following modern web development practices.
 
-## Project Description
+---
 
-This project is a responsive personal portfolio website designed to showcase personal skills, projects, and contact information. The website is built using HTML5, CSS3, and basic JavaScript while following modern web development practices.
+## 🚀 Features
+- Responsive design (mobile, tablet, desktop)
+- Semantic HTML5 structure
+- CSS Grid and Flexbox layouts
+- Accessible navigation menu
+- Contact form with basic validation
+- Hover effects and simple animations
 
-## Features
+---
 
-* Responsive design for mobile, tablet, and desktop
-* Semantic HTML5 structure
-* CSS Grid and Flexbox layouts
-* Accessible navigation menu
-* Contact form with basic validation
-* Hover effects and simple animations
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
-## Technologies Used
+---
 
-* HTML5
-* CSS3
-* JavaScript
-* Git and GitHub for version control
-
-## Project Structure
+## 📁 Project Structure
 
 week1-portfolio
 │
@@ -32,22 +34,27 @@ week1-portfolio
 │   ├── responsive.css
 │   └── variables.css
 ├── js
-│   └── navigationb.js
+│   └── navigation.js
 └── README.md
 
-## Setup Instructions
 
-1. Clone the repository
-2. Open the project folder
-3. Run the **index.html** file in any web browser
+---
 
-## How Requirements Are Met
+## ⚡ Setup Instructions
+1. Clone the repository  
+2. Open the project folder  
+3. Open `index.html` in any web browser  
 
-* Semantic HTML elements such as header, nav, main, section, and footer are used.
-* External CSS files are used for styling and responsiveness.
-* Media queries are used to make the website responsive.
-* CSS Grid and Flexbox are used for layout design.
-* JavaScript is used for simple navigation and interaction.
+---
+
+## ✅ How Requirements Are Met
+- Used semantic HTML elements (`header`, `nav`, `main`, `section`, `footer`)
+- Used external CSS files for styling and responsiveness
+- Applied media queries for responsive design
+- Used CSS Grid and Flexbox for layout
+- Added JavaScript for navigation and interactions
+
+
 
 
 
